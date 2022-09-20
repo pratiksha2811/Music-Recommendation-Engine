@@ -6,8 +6,6 @@ It is a recommendation engine project in NLP.We explored the dataset with differ
 
 pandas 
 
-
 numpy 
-
 
 Recommenders
